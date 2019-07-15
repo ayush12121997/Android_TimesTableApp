@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ExtraColor1">#f798b8</color>
+    <color name="ExtraColor2">#FF4081</color>
+    <color name="ExtraColor3">#FF4081</color>
+    <color name="ExtraColor4">#FF4081</color>
+    <color name="ExtraColor5">#FF4081</color>
+    <color name="ExtraColor6">#FF4081</color>
+    <color name="ExtraColor7">#FF4081</color>
+</resources>
